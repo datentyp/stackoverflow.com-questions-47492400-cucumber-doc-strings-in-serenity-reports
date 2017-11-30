@@ -1,0 +1,9 @@
+*.swp
+**/.idea
+*.iml
+*.iws
+*.ipr
+*.ids
+*.orig
+*.class
+hs_err_pid*
